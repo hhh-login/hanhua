@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27d87469-8fcb-4386-bf52-93dbfb1e507e" name="Changes" comment="feat: 1、修改下载地址" />
+    <list id="18daf991-6f22-4c2c-a459-c89aff88cf34" name="恢复域名" comment="恢复域名" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="release/金成汇" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hellomr3&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="release/汉成汇" />
+                    <option name="lastUsedInstant" value="1718891135" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="release/金成汇" />
+                    <option name="lastUsedInstant" value="1716213449" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="release/普榕树" />
+                    <option name="lastUsedInstant" value="1715773661" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1715507222" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hellomr3/invite.git&quot;,
+    &quot;accountId&quot;: &quot;4b548e6b-ff79-47be-a518-c05c42900d1d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fMTzwngi5Y4NEz8tcb3TPrDeqJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "release/汉成汇",
+    "last_opened_file_path": "/Users/mr.3/Desktop/web/invite",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/download/ios" />
+      <recent name="$PROJECT_DIR$/download/android" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-cec29f6fc0a3-JavaScript-WS-242.18071.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27d87469-8fcb-4386-bf52-93dbfb1e507e" name="Changes" comment="" />
+      <changelist id="18daf991-6f22-4c2c-a459-c89aff88cf34" name="恢复域名" comment="" />
+      <created>1713610212843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713610212843</updated>
+      <workItem from="1713610213912" duration="1182000" />
+      <workItem from="1713612166964" duration="264000" />
+      <workItem from="1713612997184" duration="1771000" />
+      <workItem from="1713959129538" duration="2956000" />
+      <workItem from="1714530047496" duration="2244000" />
+      <workItem from="1714708886209" duration="2799000" />
+      <workItem from="1715339923370" duration="1312000" />
+      <workItem from="1715503893718" duration="3230000" />
+      <workItem from="1715603841457" duration="7413000" />
+      <workItem from="1716213444021" duration="609000" />
+      <workItem from="1716291053311" duration="1184000" />
+      <workItem from="1717920313343" duration="2564000" />
+      <workItem from="1718891123379" duration="2657000" />
+      <workItem from="1719128848645" duration="4730000" />
+      <workItem from="1719233950549" duration="461000" />
+      <workItem from="1719234414970" duration="1581000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: 1、修改域名">
+      <option name="closed" value="true" />
+      <created>1713610411727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713610411727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: 1、非微信浏览器页面重定向">
+      <option name="closed" value="true" />
+      <created>1713611612431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713611612431</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 1、非微信浏览器页面重定向">
+      <option name="closed" value="true" />
+      <created>1713612190147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713612190147</updated>
+    </task>
+    <task id="LOCAL-00004" summary="恢复域名">
+      <option name="closed" value="true" />
+      <created>1713612425589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713612425589</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: 1、修复移动端跳转不生效">
+      <option name="closed" value="true" />
+      <created>1713613055257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713613055257</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: 1、修复移动端跳转不生效2.0">
+      <option name="closed" value="true" />
+      <created>1713613344113</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713613344113</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: 1、引导用户主动跳转">
+      <option name="closed" value="true" />
+      <created>1713613513806</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713613513806</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: 1、新增动态生成验证书">
+      <option name="closed" value="true" />
+      <created>1713966148737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713966148737</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: 1、调整style&#10;2、调整下载地址">
+      <option name="closed" value="true" />
+      <created>1714530966853</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714530966853</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: 1、调整style&#10;2、调整下载地址">
+      <option name="closed" value="true" />
+      <created>1714531113278</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714531113278</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: 1、为重新构建提交代码">
+      <option name="closed" value="true" />
+      <created>1714531852168</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714531852168</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: 1、修改icon及图标">
+      <option name="closed" value="true" />
+      <created>1714708990998</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714708990998</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: 1、文案变更">
+      <option name="closed" value="true" />
+      <created>1714709768389</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714709768389</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: 1、替换icon图标">
+      <option name="closed" value="true" />
+      <created>1714719127895</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714719127895</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: 1、调整icon大小">
+      <option name="closed" value="true" />
+      <created>1714719312142</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714719312142</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: 1、调整域名">
+      <option name="closed" value="true" />
+      <created>1715509086232</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715509086232</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: 1、触发部署">
+      <option name="closed" value="true" />
+      <created>1715612993857</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715612993857</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: 1、图片压缩小点">
+      <option name="closed" value="true" />
+      <created>1715613457008</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715613457008</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat: 1、图片模糊修复">
+      <option name="closed" value="true" />
+      <created>1715613559698</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715613559698</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat: 1、新增页面测试微信跳转">
+      <option name="closed" value="true" />
+      <created>1717922102729</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717922102729</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat: 1、初始页面修改">
+      <option name="closed" value="true" />
+      <created>1717922217143</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717922217143</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat: 1、初始页面修改">
+      <option name="closed" value="true" />
+      <created>1718104670485</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718104670485</updated>
+    </task>
+    <task id="LOCAL-00023" summary="feat: 1、修改应用下载地址">
+      <option name="closed" value="true" />
+      <created>1718891230740</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1718891230740</updated>
+    </task>
+    <task id="LOCAL-00024" summary="feat: 1、修改应用下载地址">
+      <option name="closed" value="true" />
+      <created>1718892759939</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1718892759939</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feat: 1、修改命名及icon">
+      <option name="closed" value="true" />
+      <created>1718894158199</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718894158199</updated>
+    </task>
+    <task id="LOCAL-00026" summary="feat: 1、修改命名">
+      <option name="closed" value="true" />
+      <created>1718894398854</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1718894398854</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feat: 1、修改下载地址">
+      <option name="closed" value="true" />
+      <created>1719128910492</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1719128910492</updated>
+    </task>
+    <task id="LOCAL-00028" summary="feat: 1、修改下载地址">
+      <option name="closed" value="true" />
+      <created>1719138737966</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1719138737966</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat: 1、本地下载">
+      <option name="closed" value="true" />
+      <created>1719156996200</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1719156996200</updated>
+    </task>
+    <task id="LOCAL-00030" summary="feat: 1、修改下载地址">
+      <option name="closed" value="true" />
+      <created>1719159040621</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1719159040621</updated>
+    </task>
+    <task id="LOCAL-00031" summary="feat: 1、修改下载地址">
+      <option name="closed" value="true" />
+      <created>1719160066417</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1719160066418</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat: 1、修改下载地址">
+      <option name="closed" value="true" />
+      <created>1719233955656</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1719233955656</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feat: 1、修改下载地址">
+      <option name="closed" value="true" />
+      <created>1719234610486</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1719234610486</updated>
+    </task>
+    <task id="LOCAL-00034" summary="feat: 1、修改下载地址">
+      <option name="closed" value="true" />
+      <created>1719234662708</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1719234662708</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="release/金成汇" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 1、修改域名" />
+    <MESSAGE value="feat: 1、非微信浏览器页面重定向" />
+    <MESSAGE value="恢复域名" />
+    <MESSAGE value="feat: 1、修复移动端跳转不生效" />
+    <MESSAGE value="feat: 1、修复移动端跳转不生效2.0" />
+    <MESSAGE value="feat: 1、引导用户主动跳转" />
+    <MESSAGE value="feat: 1、新增动态生成验证书" />
+    <MESSAGE value="feat: 1、调整style&#10;2、调整下载地址" />
+    <MESSAGE value="feat: 1、为重新构建提交代码" />
+    <MESSAGE value="feat: 1、修改icon及图标" />
+    <MESSAGE value="feat: 1、文案变更" />
+    <MESSAGE value="feat: 1、替换icon图标" />
+    <MESSAGE value="feat: 1、调整icon大小" />
+    <MESSAGE value="feat: 1、调整域名" />
+    <MESSAGE value="feat: 1、触发部署" />
+    <MESSAGE value="feat: 1、图片压缩小点" />
+    <MESSAGE value="feat: 1、图片模糊修复" />
+    <MESSAGE value="feat: 1、新增页面测试微信跳转" />
+    <MESSAGE value="feat: 1、初始页面修改" />
+    <MESSAGE value="feat: 1、修改应用下载地址" />
+    <MESSAGE value="feat: 1、修改命名及icon" />
+    <MESSAGE value="feat: 1、修改命名" />
+    <MESSAGE value="feat: 1、本地下载" />
+    <MESSAGE value="feat: 1、修改下载地址" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 1、修改下载地址" />
+  </component>
+</project>
