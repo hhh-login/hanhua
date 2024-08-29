@@ -1,7 +1,7 @@
 const needTips = !!/MicroMessenger/i.test(navigator.userAgent);
 
 function init(){
-    const baseUrl = "https://testapi.jchhzp.com/hhhdown/hch"
+    const baseUrl = "https://testapi.jchhzp.com/hhh/download"
     const apkUrl = `${baseUrl}/money-android.apk`
     const plistUrl = `itms-services://?action=download-manifest&url=${baseUrl}/manifest.plist`
     document.getElementById("JdownApp").href = apkUrl
